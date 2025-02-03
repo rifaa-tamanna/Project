@@ -1,5 +1,5 @@
 <html>
-	<body>
-		<title>Project</title>
-	</body>
+	<head>
+		<title>Text Document</title>
+	</head>
 </html>
